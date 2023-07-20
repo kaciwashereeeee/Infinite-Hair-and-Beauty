@@ -1,0 +1,36 @@
+img {
+    width:1920px;
+
+}
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+  .nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  body{ 
+    list-style-type: none;
+}
+ul{
+    display:inline;
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+.image{
+  position: relative;
+  bottom: 10px;
+  right: 300px;
+  
+}
+#logo{
+  padding: 20%;
+}
